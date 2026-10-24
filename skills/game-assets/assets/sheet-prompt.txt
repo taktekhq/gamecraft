@@ -1,0 +1,8 @@
+A sprite sheet of {N} separate {THINGS} for a {GENRE} game, arranged in a neat {COLS} by {ROWS} grid with lots of empty space between them, each the same size and seen from the same {VIEW} view:
+{NUMBERED LIST, one short concrete description each}
+
+{STYLE SENTENCE, copied verbatim from art/style.txt, naming the reference file(s), for example: Match the drawing style of ref-sheet.png exactly: soft dark-brown ink outlines of even medium weight, flat soft colours with one gentle shade and a small white shine, cute rounded proportions, hand-drawn feel.}
+
+The background must be one perfectly flat solid {magenta (#FF00FF) | green (#00FF00)} colour everywhere, with no shadows, no floor, no gradients, no paper texture and no text or labels. Objects must not touch each other or the edges.
+
+Generate ONCE and save it; do not inspect, crop, composite or refine afterwards.
